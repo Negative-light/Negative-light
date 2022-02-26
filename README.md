@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I am Negative_ligt
+
+## A Christian Content Creator and Dev
+
+## Lanages
+
+* Java
+* Python
+* C++
+* HTML
+* Javascript
 
 <!--
 **Negative-light/Negative-light** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
